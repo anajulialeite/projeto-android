@@ -58,7 +58,7 @@ header > h1{
     font-family: var(--fonte-destaque);
     font-size: 3em;
     text-align: center;
-    margin-bottom: 20px;
+    padding-bottom: 20px;
     text-shadow: 0px 5px 5px #09ff0048;
 }
 
