@@ -2,7 +2,7 @@
 
 <img src="imagens/HTML-CSS.png" alt="HTML-CSS" align="center" width="90">
 
-Este foi um site que eu criei fazendo curso no CursoemVideo com o professor Gustavo Guanabara, ele conta um pouco a história do <strong>Android</strong> e treino um pouco as minhas habilidades com <strong>HTML e CSS</strong>, foi um dos primeiros sites que eu fiz e juntou muita coisa, como: Iframe, marcação de texto, adionando links, imagens e emojis, criação de tabela, responsividade, etc. Sem contar com a experiência de treinar as minhas habilidades com CSS.
+Este foi um dos primeiros sites que criei durante o curso de <strong>HTML5 e CSS3</strong> do <strong>CursoemVideo</strong> com o professor <strong>Gustavo Guanabara</strong>. O projeto conta um pouco da história do <strong>Android</strong> e foi uma ótima oportunidade para treinar minhas habilidades em <strong>HTML e CSS</strong>. Nele, explorei recursos como iframe, marcações de texto, inserção de links, imagens e emojis, além da criação de tabelas e da implementação de responsividade. Foi uma experiência muito rica, especialmente para fortalecer meus conhecimentos em <strong>CSS</strong> e consolidar conceitos fundamentais de <strong>desenvolvimento web</strong>.
 
 ## Demonstração
 
