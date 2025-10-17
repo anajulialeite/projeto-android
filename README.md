@@ -6,7 +6,7 @@ Este foi um site que eu criei fazendo curso no CursoemVideo contando um pouco a 
 
 ## Demonstração
 
-
+<img src="imagens/Android.png" alt="Android" align="center" width="300"/>
 
 ## Link do projeto
 
