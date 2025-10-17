@@ -10,7 +10,7 @@ Este foi um site que eu criei fazendo curso no CursoemVideo contando um pouco a 
 
 ## Link do projeto
 
-Este é o link do meu projeto: https://anajulialeite.github.io/projeto-android/
+Este é o link do projeto <a href= "https://anajulialeite.github.io/projeto-android/">Android</a>
 
 ## License
 
